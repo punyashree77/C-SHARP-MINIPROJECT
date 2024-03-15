@@ -32,3 +32,12 @@ This program probably demonstrates the concept of polymorphism in object-oriente
 
 ## 11.Abstract Class for Calculating the Perimeter:
 As described earlier, this program involves designing an abstract class to calculate the perimeter of various geometric shapes, demonstrating concepts of abstraction and polymorphism.
+
+- Name: PUNYA SHREE V K
+- USN: 4MH21CS073
+- Faculty name: Victor Ikechukwu Agughasi
+
+# Contributer
+[Victor Ikechukwu Agughasi](httpa://github.com/Victor-Ikechukwu)
+
+[Punya Shree V K](https://github.com/punyashree77)
